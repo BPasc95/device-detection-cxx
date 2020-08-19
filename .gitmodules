@@ -1,4 +1,4 @@
-[submodule "src/common-cxx"]
+[submodule "common-cxx"]
 	path = common-cxx
 	url = ../common-cxx
 [submodule "device-detection-data"]
